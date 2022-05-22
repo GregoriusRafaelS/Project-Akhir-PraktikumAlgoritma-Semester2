@@ -1,0 +1,270 @@
+--------------------------------------------------------------
+1
+18
+10000000
+Pemberani
+Jl.Ekapraya III no 8, Kudus, Jawa Tengah
+082197597157
+2003-04-30 02:31:22
+MALE
+Direktur
+--------------------------------------------------------------
+2
+47
+20000000
+Aswalf Musya Nadif
+Jl.Jendral Sudirman IV no 1, Kudus, Jawa Tengah
+082195486851
+1974-05-22 09:20:31
+MALE
+Komite
+--------------------------------------------------------------
+3
+45
+18000000
+Syara Kusuma Mwardi
+Jl.Soekarno-Hatta IX no 10, Sleman, Yogyakarta
+082164985348
+1976-03-22 04:33:12
+FEMALE
+SPI
+--------------------------------------------------------------
+4
+51
+10000000
+Adam Delio Selino
+Jln. Jendral Sudirman III No 09, Kudus, Jawa Tengah
+085292850192
+1970-03-20 06:10:11
+MALE
+Instalasi Gawat Darurat
+--------------------------------------------------------------
+5
+41
+10000000
+Alien Gusti Bagas
+Jln. Barbasari IV No 12, Sleman, Yogyakarta
+082191763987
+1980-03-25 21:20:53
+MALE
+Instalasi Rawat Jalan
+--------------------------------------------------------------
+6
+16
+10000000
+Brady Bari Buana
+Jln. Ekapraya XXI No 25, Kudus, Jawa Tengah
+082173820918
+2005-01-31 18:09:40
+MALE
+Instalasi Bedah
+--------------------------------------------------------------
+7
+20
+10000000
+Syahdazah Brand Cakra
+Jln. Ahmad Yani XV No 09, Kudus, Jawa Tengah
+082287110299
+2001-02-22 02:42:54
+FEMALE
+Instalasi Farmasi
+--------------------------------------------------------------
+8
+17
+10000000
+Marfa Lais Kenan
+Jln. Kutai XII No 81, Jepara, Jawa Tengah
+082574928733
+2004-03-26 22:50:19
+MALE
+Instalasi Labotarium
+--------------------------------------------------------------
+9
+22
+10000000
+Oskar Nanda Kori
+Jln. Joyobono XVII No 26, Semarang, Jawa Tengah
+081338109483
+1999-12-30 21:19:32
+FEMALE
+Instalasi Radiologi
+--------------------------------------------------------------
+10
+33
+10000000
+Pramandayana Evans
+Jln. Ngangel Rejo II No 72, Bantul, Yogayakarta
+081209384722
+1988-10-24 16:22:35
+MALE
+Instalasi Rekam Medis
+--------------------------------------------------------------
+11
+31
+10000000
+Farel Gun Eric
+Jln. Damo VII No 05, Kulon Progo, Yogyakarta
+081290019283
+1990-07-28 18:29:21
+MALE
+Instalasi Gizi
+--------------------------------------------------------------
+12
+28
+10000000
+Uri Farhan Sotiono
+Jln. Arjuno XII No 11, Gunung Kidul, Yogyakarta
+082547283911
+1993-04-15 17:49:26
+MALE
+Unit Diklat
+--------------------------------------------------------------
+13
+48
+10000000
+Tony Edwin Qoty
+Jln. Rembang VIII No 13, Sleman, Yogyakarta
+08967829110
+1973-09-18 06:06:30
+MALE
+Unit Sekretariat
+--------------------------------------------------------------
+14
+24
+10000000
+Sabrina Manusya Kirina
+Jln. Veteran XIII No 57, Sleman, Yogyakarta
+083192850192
+1997-04-28 03:07:39
+FEMALE
+Unit Teknologi INF
+--------------------------------------------------------------
+15
+47
+10000000
+Anastasya Albu Haqi
+Jln. Dupak XIV No 01, Jepara, Jawa Tengah
+089939108473
+1974-08-30 17:29:40
+FEMALE
+Unit Kasir
+--------------------------------------------------------------
+16
+54
+10000000
+Karins Ukti Azzaki
+Jln. Semar XVI No 63, Semarang, Jawa Tengah
+082185710933
+1967-12-08 12:24:27
+FEMALE
+Unit Penagihan
+--------------------------------------------------------------
+17
+25
+10000000
+Izzathi Ubimayu
+Jln. Raden ajeng IX No 18, Semarang Jawa Tengah
+088193820673
+1986-05-23 08:11:15
+FEMALE
+Unit Akuntansi
+--------------------------------------------------------------
+18
+42
+10000000
+Nailla Yasin
+Jln. Kartini VII No 99, Kudus Jawa Tengah
+085283920119
+1979-08-29 23:10:49
+FEMALE
+Unit Casemix
+--------------------------------------------------------------
+19
+33
+10000000
+Yasmin Norela Pasya
+Jln. Pahlawan XIII No 81, Semarang, Jawa Tengah
+082184920019
+1988-11-05 15:25:55
+FEMALE
+Unit Pemeliharaan Sarpras
+--------------------------------------------------------------
+20
+28
+10000000
+Raden Zafqi Redi
+Jln. Jepara IX No 42, Jepara, Jawa Tengah
+082583710029
+1993-08-12 02:21:35
+MALE
+Unit Logistik
+--------------------------------------------------------------
+21
+54
+10000000
+Calista Ermina
+Jln. Kalasa XII No 80, Sragen, Jawa Tengah
+085584002938
+1966-09-19 08:14:27
+FEMALE
+Unit Humas & Pemasaran
+--------------------------------------------------------------
+22
+41
+10000000
+Fany Kuirmansyi
+Jln. Gembong I No 65, Pemalang, Jawa Tengah
+081274775921
+1980-05-23 03:04:05
+FEMALE
+Ruang Topaz
+--------------------------------------------------------------
+23
+71
+10000000
+Yahikel Tarsi Ines
+Jln. Kaliputu III No 59, Tegal, Jawa Tengah
+081184992830
+1950-05-29 20:29:31
+MALE
+Ruang Nilam 
+--------------------------------------------------------------
+24
+31
+10000000
+Talitha Yunia
+Jln. Soekarno V No 43, Brebes, Jawa Tengah
+082284710029
+1991-05-26 13:07:41
+FEMALE
+Ruang Mirah Deuma
+--------------------------------------------------------------
+25
+27
+10000000
+Yardan Luzio
+Jln. Mohammad Yamin X No 61, Wonosobo, Jawa Tengah
+085184920182
+1994-07-22 11:09:31
+MALE
+Ruang Ratna Campaka
+--------------------------------------------------------------
+26
+26
+10000000
+Sergio Ramos
+Jln. Paduka Raja III No 47, Malang, Jawa Timur
+082184992018
+1995-11-19 03:50:44
+MALE
+Ruang ICU
+--------------------------------------------------------------
+27
+22
+10000000
+Komil Putris Khirandia
+Jln. Hayam Wuruk VII No 81, Jakarta, Jawa Barat
+082582710039
+1999-04-10 23:30:58
+FEMALE
+Tim Terpadu

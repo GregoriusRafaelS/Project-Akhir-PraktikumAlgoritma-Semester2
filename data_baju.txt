@@ -1,0 +1,48 @@
+Baju Pengantin A ( Male )
+600000
+6
+1
+Baju Pengantin B ( Male )
+500000
+5
+2
+Baju Pengantin C ( Male )
+400000
+4
+3
+Baju Pesta A ( Male )
+300000
+3
+4
+Baju Pesta B ( Male )
+200000
+2
+5
+Baju Pesta C ( Male )
+100000
+1
+6
+Baju Pengantin A ( Female )
+600000
+1
+7
+Baju Pengantin B ( Female )
+500000
+2
+8
+Baju Pengantin C ( Female )
+400000
+3
+9
+Baju Pesta A ( Female )
+300000
+4
+10
+Baju Pesta B ( Female )
+200000
+5
+11
+Baju Pesta C ( Female )
+100000
+6
+12
